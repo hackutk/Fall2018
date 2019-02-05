@@ -5,4 +5,4 @@ The same truck that provided a .pcap file for the workshop also lost another fil
 
 Can you help your boss and recover the image?
 
-Email us at hackutk@gmail.com!
+Email us at hackutk@gmail.com for submission!
